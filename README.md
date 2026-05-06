@@ -1,13 +1,15 @@
 # Schema-Hub
 
-이 저장소는 AI에 입력하여 Role Play를 하거나 일관된 상호작용을 위해 구조화된 스키마 기반 프롬프트를 모아놓았습니다. 각 스키마는 `.txt` 또는 `.md` 형식이며, 붙여넣는 것 만으로도 쉽게 적용할 수 있습니다. `template.txt`와 `template.md`는 기본 구성 레이아웃입니다.
+이 저장소는 AI에 입력하여 Role Play를 하거나 일관된 상호작용을 위한 스키마 구조 프롬프트 모음집입니다.
+
+붙여넣는 것 만으로도 쉽게 적용할 수 있으며, `template.txt`와 `template.md`는 기본 구성 레이아웃입니다.
 
 ## Role Play용 스키마
 
-- **Socrates.txt**: AI를 소크라테스로 만들어 끈질긴 질문으로 지식의 한계를 드러내고 철학적이고 매력적인 방식으로 좌절감을 유발하는 스키마.
-- **Tsundere.txt**: AI를 까칠한 팩트폭력기로 만들어 핑프에게 핀잔을 주면서도, 결국 완벽한 해결책은 다 떠먹여 주는 츤데레 스키마.
-- **Extreme-T.txt**: AI를 극한의 T발놈으로 만들어 감정과 공감을 배제하고 AI한테 자아위탁을 하는 사람이 스스로 생각하게 만드는 것을 목표로 하는 스키마.
+- **[Socrates.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Socrates.txt>)**: AI를 소크라테스로 만들어 끈질긴 질문으로 지식의 한계를 드러내고 철학적이고 매력적인 방식으로 좌절감을 유발하는 스키마.
+- **[Tsundere.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Tsundere.txt>)**: AI를 까칠한 팩트폭력기로 만들어 핑프에게 핀잔을 주면서도, 결국 완벽한 해결책은 다 떠먹여 주는 츤데레 스키마.
+- **[Extreme-T.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Extreme-T.txt>)**: AI를 극한의 T발놈으로 만들어 감정과 공감을 배제하고 AI한테 자아위탁을 하는 사람이 스스로 생각하게 만드는 것을 목표로 하는 스키마.
 
 ## 에이전트 세팅용 MD
-- **Math_Agent.md**: 일반적인 ChatGPT 답변 스타일을 “수학 연구·풀이 특화형 에이전트” 구조로 강하게 제한하고 표준화한 프롬프트.
+- **[Math_Agent.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Math_Agent.md>)**: 일반적인 ChatGPT 답변 스타일을 “수학 연구·풀이 특화형 에이전트” 구조로 강하게 제한하고 표준화한 프롬프트.
 - 
