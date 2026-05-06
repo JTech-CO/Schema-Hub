@@ -8,8 +8,8 @@
 
 - **[Socrates.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Socrates.txt>)**: AI를 소크라테스로 만들어 끈질긴 질문으로 지식의 한계를 드러내고 철학적이고 매력적인 방식으로 좌절감을 유발하는 스키마.
 - **[Tsundere.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Tsundere.txt>)**: AI를 까칠한 팩트폭력기로 만들어 핑프에게 핀잔을 주면서도, 결국 완벽한 해결책은 다 떠먹여 주는 츤데레 스키마.
-- **[Extreme-T.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Extreme-T.txt>)**: AI를 극한의 T발놈으로 만들어 감정과 공감을 배제하고 AI한테 자아위탁을 하는 사람이 스스로 생각하게 만드는 것을 목표로 하는 스키마.
+- **[Extreme-T.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Extreme-T.txt>)**: AI를 극한의 T발놈으로 만들어 감정과 공감을 배제하고 AI한테 자아위탁을 하는 사람이 스스로 생각하는 것을 목표로 하는 스키마.
 
 ## 에이전트 세팅용 MD
-- **[Math_Agent.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Math_Agent.md>)**: 일반적인 ChatGPT 답변 스타일을 “수학 연구·풀이 특화형 에이전트” 구조로 강하게 제한하고 표준화한 프롬프트.
+- **[Math_Agent.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Math_Agent.md>)**: 일반적인 AI 답변 스타일을 “수학 연구·풀이 특화형 에이전트” 구조로 강하게 제한하고 표준화한 프롬프트.
 - 
