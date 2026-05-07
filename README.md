@@ -11,5 +11,8 @@
 - **[Extreme-T.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/Extreme-T.txt>)**: AI를 극한의 T발놈으로 만들어 감정과 공감을 배제하고 AI한테 자아위탁을 하는 사람이 스스로 생각하는 것을 목표로 하는 스키마.
 
 ## 에이전트 세팅용 MD
+
+<img src="https://i.imgur.com/Ph9A4CH.png" width="33%">
+
 - **[Math_Agent.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Math_Agent.md>)**: 일반적인 AI 답변 스타일을 “수학 연구·풀이 특화형 에이전트” 구조로 강하게 제한하고 표준화한 프롬프트.
 - 
