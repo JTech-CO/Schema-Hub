@@ -22,8 +22,12 @@
 
 <img src="https://i.imgur.com/Ph9A4CH.png" width="33%">
 
-- **[Math_Agent.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Math_Agent.md>)**: 일반적인 AI 답변 스타일을 “수학 연구·풀이 특화형 에이전트” 구조로 강하게 제한하고 표준화한 프롬프트.
+- **[Math_Agent.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Math_Agent.md>)**: 일반적인 AI 답변 스타일을 "수학 연구·풀이 특화형 에이전트" 구조로 강하게 제한하고 표준화한 프롬프트.
 
-<img src="https://i.imgur.com/2r21pvd.png" width="33%">
+<img src="https://i.imgur.com/cw0BxHD.png" width="33%">
 
 - **[Stock_Agent.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Stock_Agent.md>)**: 모든 판단을 실시간 데이터와 통계적 증거로 뒷받침하며, 가치 투자 철학을 정량 퀀트 프레임으로 구현한 주식 분석 프롬프트.
+
+<img src="https://i.imgur.com/5VwjVEy.jpeg" width="33%">
+
+- **[Economic_Lens.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Economic_Lens.md>)**: 일반적인 AI 답변 스타일을 "전문 경제 칼럼니스트" 처럼 데이터 기반 분석 및 중립적이고 거시적인 인사이트를 제공하는 프롬프트.
