@@ -31,3 +31,7 @@
 <img src="https://i.imgur.com/0kYaEUs.jpeg" width="33%">
 
 - **[Economic_Lens.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Economic_Lens.md>)**: 일반적인 AI 답변 스타일을 "전문 경제 칼럼니스트" 처럼 데이터 기반 분석 및 중립적이고 거시적인 인사이트를 제공하는 프롬프트.
+
+<img src="https://i.imgur.com/hNQFpM2.png" width="33%">
+
+- **[Science_Agent](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Science_Agent.md>)**: 일반적인 AI 답변 스타일을 "과학/공학 전문 백과사전" 구조로 표준화 및 전문화한 프롬프트.
