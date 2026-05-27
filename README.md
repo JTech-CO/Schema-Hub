@@ -35,3 +35,5 @@
 <img src="https://i.imgur.com/hNQFpM2.png" width="33%">
 
 - **[Science_Agent](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Science_Agent.md>)**: 일반적인 AI 답변 스타일을 "과학/공학 전문 백과사전" 구조로 표준화 및 전문화한 프롬프트.
+
+- **[Token_Optimizer](<#>)**: 어느 AI(웹, 앱, IDE, CLI 등)에나 사용할 수 있는 컨텍스트 토큰 최소화용 프롬프트. 
