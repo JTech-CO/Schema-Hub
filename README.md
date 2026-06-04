@@ -41,3 +41,13 @@
 - **[Token_Optimizer](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/Token_Optimizer.md>)**: 어느 AI(웹, 앱, IDE, CLI 등)에나 사용할 수 있는 컨텍스트 토큰 최소화용 프롬프트.
 
 - 
+
+## Claude code용 하네스
+
+- **[Harness_Template_KR.md](<#>)**
+
+- **[Harness_Template_EN.md](<#>)**
+
+- **[Harness_Expand_Pack_KR.md](<#>)**
+
+- **[Harness_Expand_Pack_EN.md](<#>)**
