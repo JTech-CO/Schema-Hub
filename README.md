@@ -44,10 +44,10 @@
 
 ## Claude code용 하네스
 
-- **[Harness_Template_KR.md](<#>)**
+- **[Harness_Template_KR.md](<#>)**: 단일 페이지로 된 간략 하네스 (한국어)
 
-- **[Harness_Template_EN.md](<#>)**
+- **[Harness_Template_EN.md](<#>)**: 단일 페이지로 된 간략 하네스 (영어)
 
-- **[Harness_Expand_Pack_KR.md](<#>)**
+- **[Harness_Expand_Pack_KR.md](<#>)**: 다중 폴더로 된 구체적 하네스 (한국어)
 
-- **[Harness_Expand_Pack_EN.md](<#>)**
+- **[Harness_Expand_Pack_EN.md](<#>)**: 다중 폴더로 된 구체적 하네스 (영어)
