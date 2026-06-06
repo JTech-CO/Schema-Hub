@@ -4,6 +4,8 @@
 
 붙여넣는 것 만으로도 쉽게 적용할 수 있으며, [template.txt](<https://github.com/JTech-CO/Schema-Hub/blob/main/schema/template.txt>)와 [template.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/MD/template.md>)는 기본 구성 레이아웃입니다.
 
+---
+
 ## Role Play용 스키마
 
 <img src="https://i.imgur.com/ddsdgJ0.png" width="33%">
