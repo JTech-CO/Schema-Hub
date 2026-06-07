@@ -52,10 +52,8 @@
 
 ## Claude code용 하네스
 
-- **[Harness_Template_KR.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/Harness/Harness_Template_KR.md>)**: 단일 페이지로 된 간략 하네스 (한국어)
-
-- **[Harness_Template_EN.md](<https://github.com/JTech-CO/Schema-Hub/blob/main/Harness/Harness_Template_EN.md>)**: 단일 페이지로 된 간략 하네스 (영어)
-
-- **[Harness_Expand_Pack_KR.md](<https://github.com/JTech-CO/Schema-Hub/tree/main/Harness/Pack/KR>)**: 다중 폴더로 된 구체적 하네스 (한국어)
-
-- **[Harness_Expand_Pack_EN.md](<https://github.com/JTech-CO/Schema-Hub/tree/main/Harness/Pack/EN>)**: 다중 폴더로 된 구체적 하네스 (영어)
+| 분류 (Category) | 한국어 (Korean) | 영어 (English) |
+| :--- | :--- | :--- |
+| **소개 (Intro)** | [하네스란?](https://github.com/JTech-CO/Schema-Hub/blob/main/Harness/WHY_HARNESS_KR.md) | [What is Harness?](https://github.com/JTech-CO/Schema-Hub/blob/main/Harness/WHY_HARNESS_EN.md) |
+| **단일페이지 (Single-Page)** | [단일페이지 간략 하네스](https://github.com/JTech-CO/Schema-Hub/blob/main/Harness/Harness_Template_KR.md) | [Single-Page Simplified Harness](https://github.com/JTech-CO/Schema-Hub/blob/main/Harness/Harness_Template_EN.md) |
+| **다중 폴더 (Multi-Folder)** | [다중 폴더 구체적 하네스](https://github.com/JTech-CO/Schema-Hub/tree/main/Harness/Pack/KR) | [Multi-Folder Specific Harness](https://github.com/JTech-CO/Schema-Hub/tree/main/Harness/Pack/EN) |
