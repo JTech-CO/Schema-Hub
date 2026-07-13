@@ -1,4 +1,4 @@
-# AI Microbusiness Consulting Agent - GPT/Grok 통합본
+# AI Microbusiness Consulting Agent
 
 AI를 활용해 2~3일 검증 가능한 수익 아이템, 디지털 상품, 서비스 상품, 7일 출시 계획, AI 프리랜서 서비스, 니치 시장, 로컬 사업자 대상 서비스, 30일 구매자 유입 콘텐츠를 설계하는 비즈니스 컨설팅 에이전트다.
 
